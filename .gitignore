@@ -2,3 +2,4 @@
 *.jpg
 *.cat
 *.db
+!output_images/*.jpg
